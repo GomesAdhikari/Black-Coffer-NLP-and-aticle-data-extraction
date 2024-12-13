@@ -1,0 +1,33 @@
+Title: MetaBridges API Decentraland Integration – AR, VR
+
+Client BackgroundClient: A leading tech firm in the USAIndustry Type:  ITServices: Consulting, Software, Blockchain, MetaverseOrganization Size: 20+Project ObjectiveTo integrate with Metaverse environments with the help of EC2, S3 bucket and the Decentraland SDK.Project DescriptionMove 3D model files from EC2 instance to S3 bucked using aws-sdk.Our SolutionConfigure  s3 bucket in aws account, create an user for s3 bucket api keys, and api secret. Put the api key, aapi secret, bucket name and bucket region in environment variable to use them in app. Install aws-sdk to implement s3 bucket.Create a function to send file from nodejs server to s3 bucket.Project DeliverablesAws ec2 instance credentials, s3 bucket credentials. Code used in the projectTools usedvs code editor, git bash terminal, google chrome web browser.  Metamask wallet, cryptocurrency, blockchain, bitcoin,  metamask, metaverse, VR, AR, Virtual Reality, Augmented Reality Language/techniques usedJavascript language is used.  Metamask wallet, cryptocurrency, blockchain, bitcoin,  metamask, metaverse, VR, AR, Virtual Reality, Augmented Reality  Models useddcl SDK (Decentraland sdk for nodejs), aws-sdk, awscli.Skills usedNode js project setup, Dcl sdk setup, Aws ec2 instance setup with aws cli,S3 bucket connection with aws-sdk. cryptocurrency, blockchain, bitcoin, metamask, metaverse, VR, AR, Virtual Reality, Augmented RealityDatabases usedNo database is usedWeb Cloud Servers usedAWS cloud server is usedWhat are the technical Challenges Faced during Project ExecutionMaking the application port in ec2 instance available globaly.How the Technical Challenges were SolvedSearch few blogs and videos for the solution. And make it done by doing some change in Security group in ec2 instance.Business Impact As Decentraland is a platform based of NFT so main part of business is related to NFT and cryptocurrency.  Project SnapshotsProject Video
+
+ 
+
+
+
+Previous articleMicrosoft Azure chatbot with LUIS (Language Understanding)Next articleAWS Lex Voice and Chatbot Ajay Bidyarthy  
+RELATED ARTICLESMORE FROM AUTHOR
+
+
+
+
+ 
+
+Integrating Machine Learning Code into Kubeflow Pipeline – Kuberflow MLOps Kubernetes 
+
+ 
+
+
+
+ 
+
+Facial Recognition Attendance System 
+
+ 
+
+
+
+ 
+
+Face Recognition Using DeepFace

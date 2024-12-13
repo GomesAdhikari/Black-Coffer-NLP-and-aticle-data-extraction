@@ -1,0 +1,31 @@
+Title: React Native Apps in the Development Portfolio
+
+Here are the list of react native apps developed by the team and the resources:https://itunes.apple.com/us/app/truckmap-truck-gps-routes/id1198422047?mt=8https://play.google.com/store/apps/details?id=com.truckmap.truckmaphttps://play.google.com/store/apps/details?id=com.verifai.standalonehttps://apps.apple.com/nl/app/verifai/id1504214033https://apps.apple.com/de/app/meetlist-lokale-aktivit%C3%A4ten/id1439183715https://play.google.com/store/apps/details?id=de.mlug.meetlisthttps://play.google.com/store/apps/details?id=com.payroo.employeehttps://play.google.com/store/apps/details?id=com.vahcarehttps://play.google.com/store/apps/details?id=com.candorivf 
+
+
+
+Previous articleA Leading Law Firm in the USA, Website SEO & OptimizationNext articleMarketing, sales, and financial data business dashboard (Wink Report) Ajay Bidyarthy  
+RELATED ARTICLESMORE FROM AUTHOR
+
+
+
+
+ 
+
+Integrating Machine Learning Code into Kubeflow Pipeline – Kuberflow MLOps Kubernetes 
+
+ 
+
+
+
+ 
+
+Facial Recognition Attendance System 
+
+ 
+
+
+
+ 
+
+Face Recognition Using DeepFace

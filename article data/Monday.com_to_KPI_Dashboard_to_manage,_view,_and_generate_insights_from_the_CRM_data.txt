@@ -1,0 +1,36 @@
+Title: Monday.com to KPI Dashboard to manage, view, and generate insights from the CRM data
+
+Client BackgroundClient: A leading energy firm in the USAIndustry Type:  EnergyServices: Solar panelOrganization Size: 200+Project ObjectiveSetup a dashboard on Monday.com
+Fetch client CRM data onto Monday.com dashboard.Project DescriptionMohsin has CRM for his business where he has all data regarding leads of his clients. He wanted to see all his client appointments at one place. Client took subscription of Monday.com. It is an CRM where you can manage your work more easily in neat and clean user-friendly environment. We can easily track our task on Monday.com. Pipeline for Monday.com is very easy to use and also customized according to our needs.Our SolutionThe challenging part of this project was to get CRM data on Monday.com dashboard. Client also has subscription of Zapier. Zapier is a connector which connect two apps to transfer data from each other. Zapier also has limitation to fetch limited type of data from CRM. Like for Mohsin CRM we can only fetch hot lead comes on CRM. But in his CRM there are also other functions like if a customer lead comes on CRM. They manually book appointment for that client. So there is no way to get that data from CRM. Issue for client was he has attached integrated four google calendar account with CRM so whenever he confirms appointment on CRM that data fetched on google calendar. But he has check manually one by one on each calendar which was bit hard task for him. So, we advised Monday.com where he can track all his task at one place.Tools usedMonday.com 
+Zapier
+Google CalendarDatabases usedGoogle CalendarWhat are the technical Challenges Faced during Project ExecutionThe challenging part of this project was to get CRM data on Monday.com dashboard.There is no direct integration of CRM and Monday.com to fetch data.How the Technical Challenges were SolvedTo solve challenges, we used Zapier to get CRM data to dashboard of Monday.com. We used google calendar of client which were integrated with CRM. All the appointment confirmed leads were present on google calendar.Pipeline of Data:  CRM 🡪 Google Calendar 🡪 Zapier 🡪 Monday.comBusiness ImpactUsing the Monday.com dashboard client can easily track all appointments of customers. He can track data of his team members and connect with them at one place. He will not miss any of his meeting with customer. Monday.com also has timeline and calendar view using that client can see all activity of his work.Project SnapshotsCRM Calendar viewMonday.comGoogle CalendarZapierProject Video
+
+Contact DetailsHere are my contact details:Email: ajay@blackcoffer.comSkype: asbidyarthyWhatsApp: +91 9717367468Telegram: @asbidyarthy For project discussions and daily updates, would you like to use Slack, Skype, Telegram, or Whatsapp? Please recommend, what would work best for you. 
+
+
+
+Previous articleData Management for a Political SaaS ApplicationNext articleCRM, Monday.com via Zapier to Power BI Dashboard Ajay Bidyarthy  
+RELATED ARTICLESMORE FROM AUTHOR
+
+
+
+
+ 
+
+Integrating Machine Learning Code into Kubeflow Pipeline – Kuberflow MLOps Kubernetes 
+
+ 
+
+
+
+ 
+
+Facial Recognition Attendance System 
+
+ 
+
+
+
+ 
+
+Face Recognition Using DeepFace

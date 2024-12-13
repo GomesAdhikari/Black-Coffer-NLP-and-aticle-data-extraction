@@ -1,0 +1,37 @@
+Title: Advanced AI for Pedestrian Crossing Safety
+
+Client BackgroundClient: A leading tech firm in the Middle EastIndustry Type:  SecurityServices: Security servicesOrganization Size: 100+The ProblemTraffic Signals are inefficient because even if there are no cars or no pedestrians on the road it still works on a timer and stops the traffic or pedestrian unnecessarily. Our SolutionWe provide a Computer vision-logic to Manipulate the traffic signal to work such that it turns red only when x number of pedestrians are waiting to cross the signal.Solution ArchitectureYolov7 pose estimation
+OpencvDeliverablesThe program Detects Pedestrians and Gives alerts to traffic Signals to turn Red or stay Green.
+Yolov7 pose model weightsTools usedYolov7
+OpencvLanguage/techniques usedPython
+Computer VisionModels usedYolov7 Pose EstimationSkills usedProgramming
+Computer Vision
+Deep LearningWhat are the technical Challenges Faced during Project ExecutionThere was no existing solution and we had to create the logic from scratch.How the Technical Challenges were SolvedResearching Computer Vision. Learning new Techniques and Experimentation.Project SnapshotsContact DetailsHere are my contact details:Email: ajay@blackcoffer.comSkype: asbidyarthyWhatsApp: +91 9717367468Telegram: @asbidyarthy For project discussions and daily updates, would you like to use Slack, Skype, Telegram, or Whatsapp? Please recommend, what would work best for you. 
+
+
+
+Previous articleAdvanced AI for Handgun DetectionNext articleAdvanced AI for Road Cam Threat Detection Ajay Bidyarthy  
+RELATED ARTICLESMORE FROM AUTHOR
+
+
+
+
+ 
+
+Integrating Machine Learning Code into Kubeflow Pipeline – Kuberflow MLOps Kubernetes 
+
+ 
+
+
+
+ 
+
+Facial Recognition Attendance System 
+
+ 
+
+
+
+ 
+
+Face Recognition Using DeepFace

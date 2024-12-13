@@ -1,0 +1,31 @@
+Title: Python model for the analysis of sector-specific stock ETFs for investment purposes
+
+Client BackgroundClient: A Leading Investment Firm in the USAIndustry Type: FinanceServices: Investment, ConsultingOrganization Size: 100+The ProblemHave an existing Python model that has been built for the analysis of sector-specific stock ETFs for investment purposes. Need to update the existing selection criteria to adjust the selection filter and add a screening criterion that drops off one or more of the proposed holdings, and to have the ability to adjust the parameters of the selection criteria to test different variables.Our SolutionThe 2 in 4 Fundamental model screens a fundamental ranking of stock market sectors, picks the top ranked holding and continues to hold that sector as long as it remains in the top four rankings.  The model holds two positions at a time.  The sector ranking data is in the wcm5.xlxs file.  We input data from the PRICES.CSV file to pull up monthly returns.  When I go to run the program, I use the 2_in_4_New.py and that give me the current rankings for both the fundamental and technical rankings.Sometimes a sector is ranked as being fundamentally attractive because it has become cheaper because of problems going on within an industry.  What I would like to do is to test out a way of screening out a sector based upon poor performance over a lookback period.  Here is what the new model would do.  Screen for a the specific number of sectors, probably between three and five, based upon the fundamental ranking over an average time period (currently 3 weeks)Choose either three, four, or five holdingsExclude the holding that has the weakest performance over a specify lookback period, let’s start with 52 weeks, but I would like to be able to adjust this variablecompare the performance of various combinations, seeing the return on an annual basis if possible, as well as showing the maximum drawdownSolution ArchitectureDeliverablesAn Updated, Optimised Python script that will filter and return Technical and Financial holdings, with a Price filter that will do price analysis on a certain lookback period.Tools usedNumpypandasitertools, combinations permutationsLanguage/techniques usedPython Business ImpactThe client now can get more than 2 Financial and technical holdings , up to maximum 5 holdings for both Technical and Financial, plus the holdings were more accurate because of the new added Price Filter that will Exclude the holding that has the weakest performance over a specify lookback period, default 52 weeks. It boosted the Client’s profit because of the more accurate and optimised functional filters.Project Snapshots 
+
+
+
+Previous articleRise of e-health and its impact on humans by the year 2030Next articleTrading Bot for FOREX Ajay Bidyarthy  
+RELATED ARTICLESMORE FROM AUTHOR
+
+
+
+
+ 
+
+Integrating Machine Learning Code into Kubeflow Pipeline – Kuberflow MLOps Kubernetes 
+
+ 
+
+
+
+ 
+
+Facial Recognition Attendance System 
+
+ 
+
+
+
+ 
+
+Face Recognition Using DeepFace

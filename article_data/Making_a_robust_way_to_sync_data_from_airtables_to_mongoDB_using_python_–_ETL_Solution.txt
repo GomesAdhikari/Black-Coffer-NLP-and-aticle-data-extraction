@@ -1,0 +1,31 @@
+Title: Making a robust way to sync data from airtables to mongoDB using python – ETL Solution
+
+Client BackgroundClient: A leading tech firm in the USAIndustry Type: IT ServicesServices: SAAS services, Marketing services, Business consultantOrganization Size: 100+Project DescriptionEquilo is a social impact start-up focused on gender equality and social inclusion. We need to link data in Airtable (1 million+ records spread across 20+ bases) to MongoDB (v3.x.x).Most of the data is backend data for our app, in which case the flow is only AT to MDB.Need to create a code that can calculate a scores by pulling from indicators in many different bases and putting result in new database.Our SolutionUsed Python and MongoDB module along with Airtable API to fetch all the data from airtables and push them to the database. Stayed in touch with the client through slack and asana completing daily tasks and applying a cronjob for the program to run on a scheduled time.Project DeliverablesPython code for sync into their staging server and then to production.Tools usedVScode MongoDBAirtable APISlackAsanaGithubLanguage/techniques usedPython  MongoDbSQLSkills usedData extractionData handlingData storageComputational data queriesDatabases usedAirtablesMongoDBWeb Cloud Servers usedAirtableWhat are the technical Challenges Faced during Project ExecutionMain challenge faced was regarding the new concept of Airtables and syncing up the data into mongodb in a very complex schema as proposed by the client. Dissimilar columns in mongoDB and Airtables for 100s of tables took lot of time.Also insufficient information provided by client while coding and the previous versions codes that had been written only to discover them on a later stage caused a lot of problem.Not proper code management which could help next coders like me to complete the remaining stuff quickly.How the Technical Challenges were SolvedThese issues were solved by lot of self study and evaluation and then asking the exact question to client which they would then answer. For eg: whereabouts of the previous codes and people who run that code.Business ImpactHelped them immensely making their backend to frontend integration seamless.Sped up their product development by 20% to calculate various different scores and visualize them on the frontend.Project SnapshotsProject website urlhttps://www.equilo.io/ 
+
+
+
+Previous articleGoogle Local Service Ads LSA API To Google BigQuery to Google Data StudioNext articleOptimize the data scraper program to easily accommodate large files and solve OOM errors Ajay Bidyarthy  
+RELATED ARTICLESMORE FROM AUTHOR
+
+
+
+
+ 
+
+Integrating Machine Learning Code into Kubeflow Pipeline – Kuberflow MLOps Kubernetes 
+
+ 
+
+
+
+ 
+
+Facial Recognition Attendance System 
+
+ 
+
+
+
+ 
+
+Face Recognition Using DeepFace

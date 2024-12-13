@@ -1,0 +1,31 @@
+Title: A Leading Law Firm in the USA, Website SEO & Optimization
+
+Client BackgroundClient: A leading marketing firm in the USAIndustry Type:  MarketingServices: Marketing consultingOrganization Size: 100+Project ObjectiveConnect website to Search Console, Google Analytics and Facebook Pixel through Google Tag Manager.Fix SEO of the website.Project Description Connecting website to Google Search Console, Google Analytics and Facebook Pixel through Google Tag Manager.Fixing SEO of the website.Our SolutionWebsite connected to Google Search Console, Google Analytics and Facebook Pixel successfully.Fixed the meta description errorbroken link error404 error, etc.Tools usedSquarespaceGoogle Tag ManagerGoogle AnalyticsGoogle Search ConsoleLanguage/techniques usedJavaScriptSkills usedSquarespaceGoogle Tag ManagerGoogle AnalyticsGoogle Search ConsoleJavaScriptProject SnapshotsProject website URLhttps://www.keepingorlandomoving.com/ 
+
+
+
+Previous articleA Leading Hospitality Firm in the USA, Website SEO & OptimizationNext articleReact Native Apps in the Development Portfolio Ajay Bidyarthy  
+RELATED ARTICLESMORE FROM AUTHOR
+
+
+
+
+ 
+
+Integrating Machine Learning Code into Kubeflow Pipeline – Kuberflow MLOps Kubernetes 
+
+ 
+
+
+
+ 
+
+Facial Recognition Attendance System 
+
+ 
+
+
+
+ 
+
+Face Recognition Using DeepFace

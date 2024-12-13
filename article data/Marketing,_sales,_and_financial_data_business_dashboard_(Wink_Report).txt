@@ -1,0 +1,33 @@
+Title: Marketing, sales, and financial data business dashboard (Wink Report)
+
+Client BackgroundClient: A leading retail firm in AustraliaIndustry Type:  RetailServices: e-commerce, retail business, marketingOrganization Size: 100+Project ObjectiveBringing in data from many sources(Google Analytics , ServiceM8 and Xero etc.) and making Business Dashboard KPIs in Wink Report.Project DescriptionFor building Business Dashboards in Wink Report , collect data from the following sources – ServiceM8XeroFacebookGoogle AdsCommuniqaExplore/analyze the underlying data tables from each Data Source. Make useful reports using different tables from different data sources based on client’s requirement. Set up formulas in each report to calculate desired fields. Add a custom visualization to each report for making dashlets. Add dashlets to newly created dashboards. Our SolutionFor collecting the data from the sources (ServiceM8 , Xero , Facebook , Google Ad) native connectors have been used , available in the Wink Report. It fetches the following data/tables from around the given data sources –ServiceM8 Connector –AssetsClientInvoicesJob AllocationsJobsMaterialsPaymentsXero Connector –Bank Transaction ItemsBudget Vs ActualEmployeesPaymentsPayslipProductsPurchase OrdersPurchase InvoicesSales InvoicesTransactionFacebook Connector –Facebook Ad InsightsGoogle Ads Connector –Ad InsightsGoogle Analytics Connector –eCommerce CampaignTotalsData Pipeline : For collecting data from Communiqa website (https://www.communiqa.com.au/) , web scraping has been used as there is no connector available for Communiqa to Wink Report. By scraping Communiqa , we get the following data –Account , Date , Total calls , Total unanswered calls , Total engaged calls , Total answered calls , Total minutes etc.Then , we have merged different tables from different sources to get desired reports. Store all reports belonging to the same dashboard in a separate folder. Do this for all the dashboard , then setup formula for calculating desired fields. Add appropriate visualization to each report for each folder. Then , finally add all dashlets belonging to the same folder to a newly created dashboard.Project DeliverablesBelow are the services that we provided to client after completion of this project –Data Pipeline(Communiqa to Wink Report) :  A Data Pipeline connecting Communiqa to Wink Report to sync in the following data tables –CSR calls [Account , Date , Total calls , Total unanswered calls , Total engaged calls , Total answered calls , Total minutes etc]Company Performance Dashboard : It contains following visualizations –KPIs –Sales This MonthLeads Booked TodaySales TodayRevenue This MonthCash Payment This MonthConversion RateOpen Warranty JobsBar Charts –Scheduled Jobs by CategorySales by MonthRevenue by MonthTables –Open Jobs from Last month[Job Id , Opened Date , Status, Invoice Amount, Amount Paid]Filters/Slicer –Date RangeJob StatusDate Grouping(Daily/Monthly/Yearly)Lead Generation Dashboard –KPIs –Total Website Traffic this monthAverage Daily Website Traffic this monthNo. of Conversion this monthTotal Marketing Investment this monthMarketing Budget TrackingCost per AcquisitionLine Charts –Link Clicks and conversion by monthTotal marketing spend by monthBar Chart –Lead Generation Count by SourcePie Chart –Lead Generation Source by Invoice AmountFilters/Slicer –Date RangeJob StatusLead Conversion Dashboard –KPIs –All Employees monthly Sales TargetAll Employees monthly Conversion RateFilters/Slicer –Date RangeJob StatusCompany Leads/Target Dashboard –KPIs –Total Hi-pages Lead todayTotal Hi-pages Lead this monthTotal OneFlare Lead todayTotal OneFlare Lead this monthTotal Google Ads Lead todayTotal Google Ads Lead this monthTotal Facebook Ads Lead todayTotal Facebook Ads Lead this monthCompany Daily Sales TargetCompany Monthly Sales TargetFilters/Slicer –Date RangeJob StatusTools usedWink ReportLanguage/techniques usedPythonWeb ScrapingSkills usedData AnalyticsData VisualizationProgramming in Python  Data Structure & Algorithm Web ScrapingFile Handling What are the technical Challenges Faced during Project ExecutionMerging reports from different data sources : Faced the issue of making the cross report from different data sources.Take live parameter input daily in Dashboards from User : Taking live user parameter input daily to feed in Wink report Dashboard. So that dashboard KPIs can change accordingly.How the Technical Challenges were SolvedMerging reports from different data sources : Resolved this issue by using merge report configuration. Using this we were able to join tables from different data sources like – Left join , Right join , Union etc.Take live parameter input daily in Dashboards from User : To resolve this issue , we added a custom field in reports with input tag. Users can enter their parameter in this custom field and all dashlets in the dashboard would update automatically.Project Snapshots Project Video
+
+ 
+
+
+
+Previous articleReact Native Apps in the Development PortfolioNext articleQuickBooks dashboard to find patterns in finance, sales, and forecasts Ajay Bidyarthy  
+RELATED ARTICLESMORE FROM AUTHOR
+
+
+
+
+ 
+
+Integrating Machine Learning Code into Kubeflow Pipeline – Kuberflow MLOps Kubernetes 
+
+ 
+
+
+
+ 
+
+Facial Recognition Attendance System 
+
+ 
+
+
+
+ 
+
+Face Recognition Using DeepFace

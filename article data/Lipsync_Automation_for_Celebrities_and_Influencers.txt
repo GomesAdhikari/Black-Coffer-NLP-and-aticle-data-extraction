@@ -1,0 +1,31 @@
+Title: Lipsync Automation for Celebrities and Influencers
+
+Client BackgroundClient: A leading tech firm in IndiaIndustry Type:  EntertainmentServices: B2COrganization Size: 100+Project ObjectiveTo change the lipsing of the original video with the new replaced audio.Project DescriptionWe needed to create an output video that will have the new lipsing according to the new replaced audio. Also we will have to change the actual audio with the new audio with automated editing.Our SolutionWe have created two different files which will perform 2 different operations 1st will replace the original audio with new and extract only video from original. 2nd will take the muted video and replaced audio and we will get the output of the new replaced audio lipsync. This is done by pre-defined model Wav2Lip on github.Project Deliverables2  google colab notebooksTools usedgithubGoogle driveLanguage/techniques usedPython 3.6moviepyffmpegModels usedWav2lipSkills usedPython programmingData scienceDatabases usedProvided by the company (Hrithik Roshan video files)Project SnapshotsProject website urlhttps://colab.research.google.com/drive/18mlREpLmV9hj-uDfufkGJ_-m_E37Hct9?usp=sharinghttps://colab.research.google.com/drive/1FZHvcVKyJxOUkUFI2auPt3vTOu4jh09K?usp=sharing 
+
+
+
+Previous articleKey Audit Matters Predictive ModelingNext articleImmigration Datawarehouse & AI-based recommendations Ajay Bidyarthy  
+RELATED ARTICLESMORE FROM AUTHOR
+
+
+
+
+ 
+
+Integrating Machine Learning Code into Kubeflow Pipeline – Kuberflow MLOps Kubernetes 
+
+ 
+
+
+
+ 
+
+Facial Recognition Attendance System 
+
+ 
+
+
+
+ 
+
+Face Recognition Using DeepFace

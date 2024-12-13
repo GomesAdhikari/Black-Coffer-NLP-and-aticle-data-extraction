@@ -1,0 +1,31 @@
+Title: Incident Duration Prediction – Infrastructure and Real Estate
+
+Client BackgroundClient: A leading research institution in the middle eastIndustry Type:  ResearchServices: R&DOrganization Size: 1000+Project ObjectiveTo complete a Research Paper draft by training various Machine Learning models which can predict the Incident Duration based on various parameters given in the dataset and summarising the results.Project DescriptionGiven a set of researches, need to analyse and compare various machine learning and deep learning models to predict the Incident Duration for the given dataset. The dataset contained Short durations as well as Long durations. Build models for each set of durations, compare and get the best out of all.Our SolutionHere, we had to predict the traffic incident duration with some machine learning tools and techniques i.e. XGBoost, SVR and Deep Learning algorithm using tensor flow. First two models were run on Python Interpreter whereas Deep learning model was run on R studio, all the three with the same dataset and then we had compared these models based on their MAE (mean absolute error). Initially, we had done a preliminary analysis of the collected incident duration data, to collect the statistical characteristics of all the variables used in our research.Project DeliverablesPython Script for each model.Documentation for Research Work.Tools usedPython InterpreterLanguage/techniques usedLanguage Used: PythonLibraries Used: pandas, sklearn, numpy, keras, pickleModels usedXGBRegressorSVRSGDRegressorSequentialDecisionTreeRegressorSkills usedProgramming, Statistical AnalysisProject Snapshots 
+
+
+
+Previous articleStatistical Data Analysis of Reinforced ConcreteNext articleHow does Metaverse work in the Financial sector? Ajay Bidyarthy  
+RELATED ARTICLESMORE FROM AUTHOR
+
+
+
+
+ 
+
+Integrating Machine Learning Code into Kubeflow Pipeline – Kuberflow MLOps Kubernetes 
+
+ 
+
+
+
+ 
+
+Facial Recognition Attendance System 
+
+ 
+
+
+
+ 
+
+Face Recognition Using DeepFace

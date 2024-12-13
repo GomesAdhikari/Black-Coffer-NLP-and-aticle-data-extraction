@@ -1,0 +1,33 @@
+Title: AI agent development and Deployment in Jina AI
+
+Client BackgroundClient: A leading tech firm in EuropeIndustry Type:  ITServices: IT and ConsultingOrganization Size: 100+The ProblemThe client’s object was to create AI agents for his website, which the end-users will utilize for many tasks. The client had some recommendations on the models are utilized.Our SolutionCreated a feasible models list that complements the client’s requirement and when ahead and executed the Executor code for every model for compatibility with JinaAI deployment. After implementing Executor codes, I created a Flow to connect every executor and deployed it successfully. DeliverablesSuccessfully delivered executable deployed models in Jina AiTools usedJina AI, VSCode, HuggingFaceLanguage/techniques usedPythonModels usedWhisper, Stable Diffusion, GPT3, Codex, YOLO, CoquiAI, PDF SegmentorSkills usedPython, Model APIs Databases usedJinaAI CloudWhat are the technical Challenges Faced during Project ExecutionThere were minute challenges, such as deployment issues and Execution issuesHow the Technical Challenges were SolvedI resolved the issues effectively after long hours of understanding the concept because JinaAI is a new growing technology that does not have many forums to solve errors and issues. Project SnapshotsProject Video
+
+Contact DetailsHere are my contact details:Email: ajay@blackcoffer.comSkype: asbidyarthyWhatsApp: +91 9717367468Telegram: @asbidyarthy For project discussions and daily updates, would you like to use Slack, Skype, Telegram, or Whatsapp? Please recommend, what would work best for you. 
+
+
+
+Previous articleGolden Record – A knowledge graph database approach to unfold discovery using Neo4jNext articleAI Solutions for Foreign Exchange – An Automated Algo Trading Tool Ajay Bidyarthy  
+RELATED ARTICLESMORE FROM AUTHOR
+
+
+
+
+ 
+
+Integrating Machine Learning Code into Kubeflow Pipeline – Kuberflow MLOps Kubernetes 
+
+ 
+
+
+
+ 
+
+Facial Recognition Attendance System 
+
+ 
+
+
+
+ 
+
+Face Recognition Using DeepFace

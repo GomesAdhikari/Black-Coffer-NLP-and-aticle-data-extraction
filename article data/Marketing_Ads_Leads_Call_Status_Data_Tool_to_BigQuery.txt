@@ -1,0 +1,31 @@
+Title: Marketing Ads Leads Call Status Data Tool to BigQuery
+
+Client BackgroundClient: A leading Marketing firm in the USAIndustry Type:  MarketingServices: Marketing consultingOrganization Size: 100+Project ObjectivePrepare a daily report for the companies and upload it to BigQuery database. Data is from callrail and contains all call information about a company.Project DescriptionExtracts data from CallRail database for the last 24 hoursThe data is uploaded to the Bigquery database called “Call_Status_From_CallRail”.The script runs once a day and is deployed to Heroku by the name “lsa-call-status-db”.The script runs for all companies in the CallRail database.The following data is uploaded:Company NameStatusLocationCustomer NameCall DateCall TimeContact NoCall StatusCall LeadOur SolutionUse CallRail API to get data from database.Run script dailyFilter out excess dataPrepare reportUpload to BigQueryProject DeliverablesA working deployed automated tool that runs once a day in the morning hours and uploads the data to BigQuery database. Tool is monitored daily.Tools usedHerokuCallRail APIBigQuerySheets APILanguage/techniques usedPythonSkills usedData extraction, cleaning, and summarisingDatabases usedBigQuery –  Call_Status_From_CallRailWeb Cloud Servers usedHerokuWhat are the technical Challenges Faced during Project ExecutionEnsuring proper data upload to databaseHow the Technical Challenges were SolvedProper monitoring of tool post-deployment. 
+
+
+
+Previous articleMarketing Analytics to Automate Leads Call Status and ReportingNext articleGoogle Local Service Ads Missed Calls and Messages Automation Tool Ajay Bidyarthy  
+RELATED ARTICLESMORE FROM AUTHOR
+
+
+
+
+ 
+
+Integrating Machine Learning Code into Kubeflow Pipeline – Kuberflow MLOps Kubernetes 
+
+ 
+
+
+
+ 
+
+Facial Recognition Attendance System 
+
+ 
+
+
+
+ 
+
+Face Recognition Using DeepFace

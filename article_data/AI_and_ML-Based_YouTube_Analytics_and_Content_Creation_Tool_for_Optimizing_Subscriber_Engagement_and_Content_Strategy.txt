@@ -1,0 +1,48 @@
+Title: AI and ML-Based YouTube Analytics and Content Creation Tool for Optimizing Subscriber Engagement and Content Strategy
+
+Client BackgroundClient: A leading IT & tech firm in the USAIndustry Type: ITProducts & Services: IT Consulting, IT Support, SaaS, Marketing StrategyOrganization Size: 10+The ProblemBuilding AI and ML based YouTube analytics and content creation tool that will help youtuber to understand their subscriber’s watching behaviour, help them in content research, creation and publication. Our SolutionCreated a MERN stack web application and integrated AI models to helps youtuber to generated titles, descriptions, tags, hashtags, captions etc. Help them to check thumbnail quality, analysis on the videos using video auditor tool, analysis on comments using sentiments analysis, help to under their subscribers using churn predication AI model. Solution Architecture
+https://www.figma.com/file/WQs01mmmNBZ1SjNE2IV8Sl/Youtube-Web-App-By-SHiV?type=design&node-id=0-1&mode=design&t=Lh2jRx4bGQq6l4WU-0
+DeliverablesWeb ApplicationsSupportsMaintenance Feature EnhancementTech StackTools used
+VS code
+Language/techniques used
+React.js
+Express.js
+Node.js
+Python
+Models used
+Python libraries
+Skills used
+Data scientise
+Full Stack developer
+Databases used
+MongoDB
+Web Cloud Servers used
+Google Cloud PlatformProject Snapshots Home PageTool PageDashboardBlog PageSingle Blog PostAbout UsContact UsLogin PageTitle and Description tool PageThumbnail Quality check toolProject website urlhttps://tubetool.aiSummarizeSummarized: https://blackcoffer.com/This project was done by the Blackcoffer Team, a Global IT Consulting firm.Contact DetailsThis solution was designed and developed by Blackcoffer TeamHere are my contact details:Firm Name: Blackcoffer Pvt. Ltd.Firm Website: www.blackcoffer.comFirm Address: 4/2, E-Extension, Shaym Vihar Phase 1, New Delhi 110043Email: ajay@blackcoffer.comSkype: asbidyarthyWhatsApp: +91 9717367468Telegram: @asbidyarthy 
+
+
+
+Previous articleEnhancing Front-End Features and Functionality for Improved User Experience and Dashboard Accuracy in Partner Hospital ApplicationNext articleDevelopment of EA Robot for Automated Trading Ajay Bidyarthy  
+RELATED ARTICLESMORE FROM AUTHOR
+
+
+
+
+ 
+
+Integrating Machine Learning Code into Kubeflow Pipeline – Kuberflow MLOps Kubernetes 
+
+ 
+
+
+
+ 
+
+Facial Recognition Attendance System 
+
+ 
+
+
+
+ 
+
+Face Recognition Using DeepFace

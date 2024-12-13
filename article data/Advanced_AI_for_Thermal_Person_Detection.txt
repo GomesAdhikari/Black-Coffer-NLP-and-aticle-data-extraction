@@ -1,0 +1,36 @@
+Title: Advanced AI for Thermal Person Detection
+
+Client BackgroundClient: A leading tech firm in the Middle EastIndustry Type:  SecurityServices: Security servicesOrganization Size: 100+The ProblemDetect a Person from thermal image and videos. Why this model was created was not told to us by the client.Our SolutionUse Deeplearning Computer Vision to train the model on custom dataset and get the results.Solution ArchitectureLinux 22.04
+Nvidiva RTX 3080DeliverablesTrained modelTools usedLabelimg
+Yolov7
+COCO2JSONLanguage/techniques usedPythonModels usedYolov7Skills usedDeeplearning
+Computer vision
+ProgrammingContact DetailsHere are my contact details:Email: ajay@blackcoffer.comSkype: asbidyarthyWhatsApp: +91 9717367468Telegram: @asbidyarthy For project discussions and daily updates, would you like to use Slack, Skype, Telegram, or Whatsapp? Please recommend, what would work best for you. 
+
+
+
+Previous articleAdvanced AI for Road Cam Threat DetectionNext articleCreate a Knowledge Graph to Provide Real-time Analytics, Recommendations, and a Single Source of Truth Ajay Bidyarthy  
+RELATED ARTICLESMORE FROM AUTHOR
+
+
+
+
+ 
+
+Integrating Machine Learning Code into Kubeflow Pipeline – Kuberflow MLOps Kubernetes 
+
+ 
+
+
+
+ 
+
+Facial Recognition Attendance System 
+
+ 
+
+
+
+ 
+
+Face Recognition Using DeepFace

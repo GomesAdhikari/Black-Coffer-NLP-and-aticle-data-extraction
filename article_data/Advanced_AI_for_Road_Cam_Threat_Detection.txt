@@ -1,0 +1,37 @@
+Title: Advanced AI for Road Cam Threat Detection
+
+Client BackgroundClient: A leading tech firm in the Middle EastIndustry Type:  SecurityServices: Security servicesOrganization Size: 100+The ProblemDetect the threat level of accidents between a Pedestrian and a Car.Our SolutionUse Deeplearning Computer vision and logic to detect the threat level as defined by the Client.Solution ArchitectureLinux 22.04DeliverablesProgram which detects the threat level.
+Pretrained model.Tools usedYolov7
+DEEPSORT
+OpencvLanguage/techniques usedPythonModels usedYolov7Skills usedProgramming
+Computer Vision
+Deep learningWhat are the technical Challenges Faced during Project ExecutionIntegration of Object tracking algorithm with Object detection algorithm.
+Writing of logic to detect the threat level.How the Technical Challenges were SolvedThe technical challenge was sorted by testing, experimenting and later on finding and modifying an already existing repository to use as a baseline for our code for integration.Contact DetailsHere are my contact details:Email: ajay@blackcoffer.comSkype: asbidyarthyWhatsApp: +91 9717367468Telegram: @asbidyarthy For project discussions and daily updates, would you like to use Slack, Skype, Telegram, or Whatsapp? Please recommend, what would work best for you. 
+
+
+
+Previous articleAdvanced AI for Pedestrian Crossing SafetyNext articleAdvanced AI for Thermal Person Detection Ajay Bidyarthy  
+RELATED ARTICLESMORE FROM AUTHOR
+
+
+
+
+ 
+
+Integrating Machine Learning Code into Kubeflow Pipeline – Kuberflow MLOps Kubernetes 
+
+ 
+
+
+
+ 
+
+Facial Recognition Attendance System 
+
+ 
+
+
+
+ 
+
+Face Recognition Using DeepFace

@@ -1,0 +1,61 @@
+Title: ROAS Dashboard for Campaign-Wise Google Ads Budget Tracking Using Google Ads AP
+
+Client BackgroundClient: A leading IT & tech firm in the USAIndustry Type: ITProducts & Services: IT Consulting, IT Support, SaaSOrganization Size: 200+The ProblemCreate a ROASing dashboard to fetch google ads budget spent data using google ads api(campaign-wise). The challenge is to develop a ROAS (Return on Ad Spend) dashboard that efficiently retrieves and displays Google Ads budget spent data on a campaign-wise basis using the Google Ads API. The current system lacks a streamlined method for tracking and analyzing ad spend across various campaigns, leading to difficulties in assessing performance and optimizing budget allocation. The goal is to create a comprehensive dashboard that accurately fetches and visualizes budget data, enabling more effective analysis and decision-making. This involves integrating with the Google Ads API, ensuring data accuracy, and providing clear, actionable insights for better campaign management.4o miniOur SolutionGet Data source accessa. Google ads accounts
+Get Access to google cloud platforma. Bigqueryb. VM
+Setup Google Big Query Data warehouse
+Design db schema / models
+Develop Python ETL tool to pull data from source and save it to the data warehouse
+Deploy ETL tool to VM and run it as cron to update data at db frequentlya. Check frequency to runb. Recommended 3 to 6 times a dayc. The ETL tool should run automatically at the set intervals and update the dbd. Add slack integration module for notifications on Cronjob failure
+Get Design Access of the Dashboard
+Implement the Dashboarda. Use Vuexy React Templateb. List KPI to display in UIc. List Charts to display in the UI
+Implement Backend API needed to build the dashboardSolution Architecture
+https://drive.google.com/file/d/1ygYpSWiOQnREeOMAn4Zk5taNbWv8eaN8/view?usp=sharing
+DeliverablesETL ToolDashboardDocumentationsSource codesSupport and MaintenanceTech StackTools used
+VS Code
+Digital Ocean
+Language/techniques used
+Python
+Google Big Query
+Google Cloud Platform
+Google Ads
+API
+React.js
+Node.js
+Github
+Models used
+Python libraries (Pandas) 
+Skills used
+Data Scientist
+Full Stack developer 
+Databases used
+MySQL
+Web Cloud Servers used
+Digital OceanWhat are the technical Challenges Faced during Project ExecutionGetting the Google Ads campaigns dataHow the Technical Challenges were SolvedUsed the google Ads APIsProject SnapshotsProject website urlhttps://roasing.comSummarizeSummarized: https://blackcoffer.com/This project was done by the Blackcoffer Team, a Global IT Consulting firm.Contact DetailsThis solution was designed and developed by Blackcoffer TeamHere are my contact details:Firm Name: Blackcoffer Pvt. Ltd.Firm Website: www.blackcoffer.comFirm Address: 4/2, E-Extension, Shaym Vihar Phase 1, New Delhi 110043Email: ajay@blackcoffer.comSkype: asbidyarthyWhatsApp: +91 9717367468Telegram: @asbidyarthy 
+
+
+
+Previous articleEfficient Processing and Analysis of Financial Data from PDF Files: Addressing Formatting Inconsistencies and Ensuring Data Integrity for a Toyota Dealership Management FirmNext articleEnhancing Front-End Features and Functionality for Improved User Experience and Dashboard Accuracy in Partner Hospital Application Ajay Bidyarthy  
+RELATED ARTICLESMORE FROM AUTHOR
+
+
+
+
+ 
+
+Integrating Machine Learning Code into Kubeflow Pipeline – Kuberflow MLOps Kubernetes 
+
+ 
+
+
+
+ 
+
+Facial Recognition Attendance System 
+
+ 
+
+
+
+ 
+
+Face Recognition Using DeepFace

@@ -1,0 +1,33 @@
+Title: Microsoft Azure chatbot with LUIS (Language Understanding)
+
+Client BackgroundClient: A leading retail firm in the USAIndustry Type:  RetailServices: e-commerce, retail businessOrganization Size: 100+Project ObjectiveTo create an advanced chatbot using Microsoft Azure cognitive service to take orders from customer on behalf of a pizza restaurant and give order summary as end result to the user. Project DescriptionThe project uses MS Azure LUIS service for language understanding to receive order details from a customer and provide an order summary. Also display various menu options to the customer in a dynamic method.Our SolutionOur solution is to create a chatbot on MS Azure platform using their LUIS service in bot-framework composer environment. Use dynamic hero cards to display menu so that user can get a better experience.Project DeliverablesChatbotTools usedBot Framework composerBot emulatorMS Azure LUIS servicesLanguage/techniques usedBot framework composer Natural language processingModels usedMS Azure LUISMS Azure QnAMS Azure speed SDKSkills usedDeep learningWeb developmentCloud techWeb Cloud Servers usedMicrosoft Azure web platformWhat are the technical Challenges Faced during Project ExecutionMonthly quota for LUIS authoring service was reachedTracking multiple items ordered by userAccessing relevant images for each menu itemHow the Technical Challenges were SolvedSwitching to a more suitable pricing tier which would have to eventually switch to when move onto production phaseCreating custom functions and intents for different trackersUsing open license images from internetProject Snapshots Project website url Demo
+
+ 
+
+
+
+Previous articleDo All Social Media Is Owned By Meta?Next articleMetaBridges API Decentraland Integration – AR, VR Ajay Bidyarthy  
+RELATED ARTICLESMORE FROM AUTHOR
+
+
+
+
+ 
+
+Integrating Machine Learning Code into Kubeflow Pipeline – Kuberflow MLOps Kubernetes 
+
+ 
+
+
+
+ 
+
+Facial Recognition Attendance System 
+
+ 
+
+
+
+ 
+
+Face Recognition Using DeepFace

@@ -1,0 +1,31 @@
+Title: Marketing Tool to Notify Leads to Clients over Email and Phone
+
+Client BackgroundClient: A leading Marketing firm in the USAIndustry Type:  MarketingServices: Marketing consultingOrganization Size: 100+Project ObjectivePrepare a daily report for data from Local Service Ads dashboard and email to client.Project DescriptionExtracts data from the LSA dashboard for the last 24 hours.The data is sent to the client email in the form of a daily report using SendGrid.The script runs every morning and is deployed to Heroku by the name “lead-details-to-email”.The data is collected only for the companies that are not marked in red in the “Missed Messages Notification Automation – Master File” sheet.The following data is uploaded:Number of LeadsCost Per LeadLead TypeDispute amount to be approvedDispute amount approvedCost per CallOur SolutionUse LSA API to extract data.Clean the data to make it readable and dispose the data not needed.Get the email id of each company from the given SheetSend an email to the client using SendGridDeploy to HerokuProject DeliverablesA working deployed automated tool that runs everyday in the morning hours and sends a report to the client. Tool is monitored everyday.Tools usedHerokuLSA APISendGridSheets APILanguage/techniques usedPythonSkills usedData extraction, cleaning, and summarisingDatabases usedData is not stored and is sent directly to the clientWeb Cloud Servers usedHerokuWhat are the technical Challenges Faced during Project ExecutionEnsuring a company’s data does not go to another companyHow the Technical Challenges were SolvedTesting on multiple dummy email ids 
+
+
+
+Previous articleData ETL: Local Service Ads Leads to BigQueryNext articleCallRail, Analytics & Leads Report Alert Ajay Bidyarthy  
+RELATED ARTICLESMORE FROM AUTHOR
+
+
+
+
+ 
+
+Integrating Machine Learning Code into Kubeflow Pipeline – Kuberflow MLOps Kubernetes 
+
+ 
+
+
+
+ 
+
+Facial Recognition Attendance System 
+
+ 
+
+
+
+ 
+
+Face Recognition Using DeepFace

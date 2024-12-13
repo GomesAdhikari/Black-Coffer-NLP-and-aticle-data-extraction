@@ -1,0 +1,31 @@
+Title: Google Local Service Ads Missed Calls and Messages Automation Tool
+
+Client BackgroundClient: A leading Marketing firm in the USAIndustry Type:  MarketingServices: Marketing consultingOrganization Size: 100+Project ObjectiveA real time tool to send a report of missed calls and messages to the client.Project DescriptionExtracts data from CallRail database for the last 5 minutesAll the calls which are marked as “missed” and all messages in the data are sent in the form of a report to the client.The script runs every 5 minutes and is deployed to Heroku by the name “missed-messages”.The data is collected only for the companies that are not marked in red in the “Missed Messages Notification Automation – Master File” sheet.The following data is uploaded:Company NameDateTimeCustomer NameContact No.Customer LocationCall TypeIn case of messages:Company NameDateTimeCustomer NameContact No.No. of messagesDirection (Inbound/Outbound)ContentOur SolutionTo provide data real time, schedule the tool to check for data every 5 minutes.Extract data from CallRailFilter out all answered callsPrepare reportGet email ids from sheetsSend email through SendGridProject DeliverablesAn automated tool which provides real time updates to the client along with all information about the call.Tools usedHerokuCallRail APISendGridSheets APILanguage/techniques usedPythonSkills usedData extraction, cleaning and summarisingDatabases usedGoogle Big QueryWeb Cloud Servers usedHerokuWhat are the technical Challenges Faced during Project ExecutionSending correct reports only to the companies which are activeHow the Technical Challenges were SolvedUsing Google Sheet’s cell formatting in Python 
+
+
+
+Previous articleMarketing Ads Leads Call Status Data Tool to BigQueryNext articleGoogle Local Service Ads (LSA) Data Warehouse Ajay Bidyarthy  
+RELATED ARTICLESMORE FROM AUTHOR
+
+
+
+
+ 
+
+Integrating Machine Learning Code into Kubeflow Pipeline – Kuberflow MLOps Kubernetes 
+
+ 
+
+
+
+ 
+
+Facial Recognition Attendance System 
+
+ 
+
+
+
+ 
+
+Face Recognition Using DeepFace

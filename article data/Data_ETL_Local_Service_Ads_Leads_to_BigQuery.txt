@@ -1,0 +1,31 @@
+Title: Data ETL: Local Service Ads Leads to BigQuery
+
+Client BackgroundClient: A leading Marketing firm in the USAIndustry Type:  MarketingServices: Marketing consultingOrganization Size: 100+Project ObjectiveUpload daily data from Google Local Service Ads dashboard to BigQuery database.Project DescriptionExtracts data from LSA dashboard for the last 24 hours.The data is uploaded to BigQuery database “lsa_lead_daily_data”The script runs every morning and is deployed to Heroku by the name “lead-details-to-db”.The data is collected only for the companies that are not marked in red in the “Missed Messages Notification Automation – Master File” sheet.The following data is uploaded:Number of LeadsCost Per LeadLead TypeDispute amount to be approvedDispute amount approvedCost per CallOur SolutionUse LSA API to extract data.Clean the data to make it readable and dispose the data not needed.Upload data to a BigQuery database everyday at a fixed time.Deploy to Heroku to run the script everyday.Project DeliverablesA working deployed automated tool that runs everyday in the morning hours and uploads a report to database. Tool is monitored everyday. Tools usedHerokuLSA APIBigQuery APISheets APILanguage/techniques usedPythonSkills usedData extraction, cleaning and summarisingDatabases usedBigQuery –  lsa_lead_daily_dataWeb Cloud Servers usedHerokuWhat are the technical Challenges Faced during Project ExecutionMaking sure that the data uploaded is for the right company.How the Technical Challenges were SolvedMonitoring daily logs and uploads for some time and making sure data was correct 
+
+
+
+Previous articleMarbles Stimulation using pythonNext articleMarketing Tool to Notify Leads to Clients over Email and Phone Ajay Bidyarthy  
+RELATED ARTICLESMORE FROM AUTHOR
+
+
+
+
+ 
+
+Integrating Machine Learning Code into Kubeflow Pipeline – Kuberflow MLOps Kubernetes 
+
+ 
+
+
+
+ 
+
+Facial Recognition Attendance System 
+
+ 
+
+
+
+ 
+
+Face Recognition Using DeepFace

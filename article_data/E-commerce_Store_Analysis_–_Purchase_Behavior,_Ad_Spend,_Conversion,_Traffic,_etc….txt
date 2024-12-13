@@ -1,0 +1,33 @@
+Title: E-commerce Store Analysis – Purchase Behavior, Ad Spend, Conversion, Traffic, etc…
+
+Client BackgroundClient: A leading retail firm in the USAIndustry Type:  RetailServices: Retail businessOrganization Size: 100+Project ObjectiveTo create a well-designed and informative dashboard for Symbiome e-commerce website using data sourced from Bigquery Database, Google Ads, Google Analytics, and Facebook Ads.Project DescriptionOur client, Arik Oganesian, approached us with a requirement to create a dashboard for his friend’s e-commerce website, Symbiome. The dashboard needed to be visually appealing and provide comprehensive insights into the website’s performance. We sourced data from various sources such as Bigquery Database, Google Ads, Google Analytics, and Facebook Ads. To create the dashboard, we used Google Data Studio and Google Sheets to link the data sources. We also used SQL language to extract data from Bigquery Database. The client specifically asked for cohort retention and cohort revenue charts to be included in the dashboard. With our expertise in data analytics, we were able to fulfill the client’s requirements and provide a dashboard that helped the client make data-driven decisions.Our SolutionWe used Google Data Studio to create the dashboard and Google Sheets to link the data sources. To extract data from Bigquery Database, we used SQL language. We created a set of charts including cohort retention and cohort revenue charts to fulfill the client’s requirements.Project DeliverablesSymbiome E-commerce DashboardTools usedGoogle Data Studio and Google SheetsLanguage/techniques usedSQL for BigquerySkills usedData analyticsDatabases usedBigquery DatabaseWhat are the technical Challenges Faced during Project ExecutionOne of the major challenges we faced was extracting data from Bigquery Database using SQL language. However, we were able to overcome this challenge by using our expertise in data analytics.How the Technical Challenges were SolvedTo solve this issue, we used Google Data Studio and Google Sheets to link the data sources. We also used SQL language to extract data from Bigquery Database. By using these tools, we were able to integrate the data from different sources and create a single comprehensive dashboard that met the client’s requirements.Business ImpactThe dashboard we created provided a clear view of the website’s performance and helped the client to make data-driven decisions. This resulted in an increase in website traffic and revenue.Project Snapshots Project website urlhttps://lookerstudio.google.com/u/1/reporting/c25c55ae-8052-4166-b363-347a2f8059da/page/SI6uCProject Video
+
+ 
+
+
+
+Previous articleKPI Dashboard for AccountantsNext articleData Transformation Ajay Bidyarthy  
+RELATED ARTICLESMORE FROM AUTHOR
+
+
+
+
+ 
+
+Integrating Machine Learning Code into Kubeflow Pipeline – Kuberflow MLOps Kubernetes 
+
+ 
+
+
+
+ 
+
+Facial Recognition Attendance System 
+
+ 
+
+
+
+ 
+
+Face Recognition Using DeepFace
